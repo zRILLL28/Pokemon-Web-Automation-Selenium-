@@ -44,3 +44,6 @@ It simulates a real user journey to validate the main flow of the Pokédex featu
 - Scrolling into view
 - Handling dynamic elements (JavaScript-rendered UI)
 - Bypassing click interception (overlay issues)
+
+## Demo
+![Demo](Demo.gif)
