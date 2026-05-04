@@ -3,9 +3,9 @@ Pokémon Web Automation with Selenium Python
 This project demonstrates web automation testing on the official Pokémon website using Python and Selenium.
 It simulates a real user journey to validate the main flow of the Pokédex feature.
 
-#🚀 Objective
+## 🚀 Objective
 
-##Automate the following user flow on:
+### Automate the following user flow on:
 👉 https://www.pokemon.com/us/
 
 - Navigate to Pokédex
