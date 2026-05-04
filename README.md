@@ -13,9 +13,9 @@ It simulates a real user journey to validate the main flow of the Pokédex featu
 - View Pokémon details
 - Explore more Pokémon
 
-#✅ Test Scenario (Acceptance Criteria)
+## ✅ Test Scenario (Acceptance Criteria)
 
-##The automation script covers the following steps:
+### The automation script covers the following steps:
 
 - Open the Pokémon website
 - Click CTA “Pokédex”
@@ -25,20 +25,20 @@ It simulates a real user journey to validate the main flow of the Pokédex featu
 - Click CTA “Explore More Pokémon”
 - Scroll down to display additional Pokémon
 
-#📌 Expected Result
+## 📌 Expected Result
 - Successfully navigates to Pokédex
 - Pikachu appears in search results
 - Pikachu detail page is displayed
 - Successfully navigates to Explore Pokémon page
 - Pokémon list is displayed after scrolling
 
-#🧰 Tech Stac
+## 🧰 Tech Stac
 - Python 3.x
 - Selenium
 - undetected-chromedriver
 - Google Chrome
 
-#🔍 Key Automation Techniques
+## 🔍 Key Automation Techniques
 - Handling cookie popups
 - Explicit waits (WebDriverWait)
 - Scrolling into view
